@@ -8,7 +8,7 @@ Neste repositório estão alguns projetos e desafios que fiz utilizando html, cs
 - [Social Links](#social-links)
 - [QR Code](#qr-code)
 - [Projeto Museu](#projeto-museu)
-- [Recipe page](#recip-page)
+- [Recipe page](#recipe-page)
 
 ## Blog Preview card
 
