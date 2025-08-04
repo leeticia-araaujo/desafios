@@ -12,20 +12,25 @@ Neste repositório estão alguns projetos e desafios que fiz utilizando html, cs
 
 ## Blog Preview card
 
-[Blog Preview card](https://leeticia-araaujo.github.io/desafios/desafio-card/)
+É uma página de um cartão de visualização de um blog, desafio proposto pelo frontend mentor com o objetivo de se familiarizar com box model <br>
+[Clique aqui](https://leeticia-araaujo.github.io/desafios/desafio-card/) para vizualizar
 
 ## Social Links
 
-[Social Links](https://leeticia-araaujo.github.io/desafios/desafio-social-links/)
+É uma página, similar a um linktree, com minhas redes sociais <br>
+[Clique aqui](https://leeticia-araaujo.github.io/desafios/desafio-social-links/) para vizualizar
 
 ## QR Code
 
-[QR Code](https://leeticia-araaujo.github.io/desafios/desafio-qr-code/)
+É uma página exibindo um qr code, o desafio foi proposto pelo frontend mentor <br>
+[Clique aqui](https://leeticia-araaujo.github.io/desafios/desafio-qr-code/) para vizualizar
 
 ## Projeto Museu
 
-[Projeto Museu](https://leeticia-araaujo.github.io/desafios/projeto-museu/)
+Página inicila de um site de museu, exibindo os museus mais visitados do país e outras sugestões <br>
+[Clique aqui](https://leeticia-araaujo.github.io/desafios/projeto-museu/) para vizualizar
 
 ## Recipe page
 
-[Recipe page](https://leeticia-araaujo.github.io/desafios/projeto-pag-receita/)
+Receita de um cupcake de café com chantily, possui uma lista com os ingredientes e o modo de preparo <br> 
+[Clique aqui](https://leeticia-araaujo.github.io/desafios/projeto-pag-receita/) para vizualizar
