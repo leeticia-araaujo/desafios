@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    font-size: 1.2rem;
+    color: white;
+    background-image: linear-gradient(180deg, #082050 0%, #044E7F 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 22px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.info{
+    text-align: center;
+    margin: 25px 0;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+#backward, #forward{
+    width: 40px;
+    width: 40px;
+}
+
+.play-pause{
+    width: 60px;
+    width: 60px;
+}
+
+svg{
+    cursor: pointer;
+}
+
+svg:hover{
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
+
+#pause{
+    display: none;
+}
+
+.on #play{
+    display: none;
+}
+
+.on #pause{
+    display: block;
+}
+
+/* estilização da barra de progresso */
+
+.progress-bar {
+    height: 6px;
+    background-color: #dddddd5c;
+    cursor: pointer;
+    margin: 8px 0px;
+    border-radius: 5px;
+}
+
+.progress {
+    height: 6px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.time{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.time span{
+    font-size: 14px;
+}
