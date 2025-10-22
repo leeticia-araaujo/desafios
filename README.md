@@ -1,15 +1,22 @@
 # Projetos e desafios
 
-Neste repositório estão alguns projetos e desafios que fiz utilizando html, css e um pouquinho de javascipt
+Este repositório reúne alguns projetos e desafios desenvolvidos com HTML, CSS e JavaScript. Todos foram desenvolvidos para praticar e aprender mais sobre desenvolvimento web.
 
 ## Índice 🔗
 
+- [Projeto Audiobook](#projeto-audiobook)
 - [Projeto Apple Watch](#projeto-apple-watch)
 - [Blog Preview card](#blog-preview-card)
 - [Social Links](#social-links)
 - [QR Code](#qr-code)
 - [Projeto Museu](#projeto-museu)
 - [Recipe page](#recipe-page)
+
+## Projeto Audiobook
+
+É uma página web de um audiobook de Dom Casmurro. Ela permite que o usuário escute o livro, avance para o próximo capitulo ou retorne, pause e reproduza o áudio, além de contar com uma barra de progresso. <br>
+[Clique aqui](https://leeticia-araaujo.github.io/desafios/projeto-audiobook/) para ir para a página. <br> <br>
+<img width="400px" height="400px" src="imagens/audiobook.jpg"/>
 
 ## Projeto Apple Watch
 
